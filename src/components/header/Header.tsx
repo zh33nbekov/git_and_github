@@ -8,13 +8,19 @@ const Header = () => {
 			<nav className={styles.header__nav}>
 				<ul className={styles.nav__list}>
 					<li className={styles.nav__item}>
-						<Link href='/' className={styles.nav__link} />
+						<Link href='/' className={styles.header__link}>
+							Home
+						</Link>
 					</li>
 					<li className={styles.nav__item}>
-						<Link href='/services' className={styles.nav__link} />
+						<Link href='/services' className={styles.header__link}>
+							Our Services
+						</Link>
 					</li>
 					<li className={styles.nav__item}>
-						<Link href='/admin' className={styles.nav__link} />
+						<Link href='/admin' className={styles.header__link}>
+							Admin Panel
+						</Link>
 					</li>
 				</ul>
 			</nav>
