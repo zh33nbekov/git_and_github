@@ -1,0 +1,20 @@
+.header {
+	padding: 15px 0;
+}
+.header__logo {
+	color: blueviolet;
+	font-size: 23px;
+}
+.header__nav {
+
+}
+.nav__list {
+	display: flex;
+	
+}
+.nav__item {
+
+}
+.nav__link {
+
+}
