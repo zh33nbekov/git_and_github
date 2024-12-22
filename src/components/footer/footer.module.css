@@ -1,0 +1,19 @@
+.footer {
+	width: 100%;
+	padding: 25px 0;
+	background-color: violet;
+	position: fixed;
+	bottom: 0;
+}
+.nav__list {
+	display: flex;
+	list-style: none;
+	gap: 20px;
+}
+.nav__item {
+	/* margin-right: 1rem; */
+}
+.nav__link {
+	text-decoration: none;
+	color: rgb(16, 16, 217);
+}
