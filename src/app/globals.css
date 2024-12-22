@@ -89,7 +89,9 @@
 	box-sizing: border-box;
 	font-family: 'TildaSans', Arial, sans-serif;
 }
-
+button {
+	cursor: pointer;
+}
 body {
 	background-color: purple;
 }

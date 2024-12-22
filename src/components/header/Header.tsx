@@ -27,9 +27,7 @@ const Header = () => {
 								</li>
 							</ul>
 						</nav>
-						<button className={styles.actions__button}>
-							Contact Us
-						</button>
+						<button className={styles.actions__button}>Contact Us</button>
 					</div>
 				</div>
 			</div>

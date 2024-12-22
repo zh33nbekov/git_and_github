@@ -30,9 +30,14 @@
 }
 .nav__link {
 	text-decoration: none;
+	color: rgb(16, 16, 217);
 }
 .actions__button {
 	padding: 5px 10px;
 	border-radius: 5px;
 	border: none;
+	transition: opacity 180ms ease-in-out;
+}
+.actions__button:hover {
+	opacity: 0.7;
 }
